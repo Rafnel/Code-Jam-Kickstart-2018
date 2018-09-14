@@ -1,0 +1,3 @@
+C:/Users/zacsh/Desktop/kickstart 2018/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/zacsh/Desktop/kickstart 2018/cmake-build-debug/CMakeFiles/kickstart_2018.dir
+C:/Users/zacsh/Desktop/kickstart 2018/cmake-build-debug/CMakeFiles/edit_cache.dir
